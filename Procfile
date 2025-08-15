@@ -1,1 +1,1 @@
-web: gunicorn renderbot:app
+web: gunicorn bot:app
