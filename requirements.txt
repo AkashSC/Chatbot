@@ -19,12 +19,12 @@ dialogflow==2.0.0
 flask==3.0.3
 fonttools==4.42.0
 frozenlist==1.5.0
-google-api-core==1.34.1
+google-api-core
 google-auth==2.40.3
-google-cloud-dialogflow==2.41.2
-googleapis-common-protos==1.70.0
+google-cloud-dialogflow
+googleapis-common-protos
 grpcio==1.70.0
-grpcio-status==1.70.0
+grpcio-status
 gunicorn==23.0.0
 idna==3.10
 importlib-metadata==8.5.0
